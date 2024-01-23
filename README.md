@@ -1,5 +1,8 @@
 # React + Vite
 
+## Live Link
+https://moviex-platform.netlify.app
+
 ##Video
 
 
